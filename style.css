@@ -1,0 +1,54 @@
+body{
+    margin: 0;
+    background-color: #d8d8d8;
+}
+nav{
+    display: block;
+    width: 100%;
+    background-color: #ccc !important;
+    box-shadow: opx 1px 3px 1px rgb(0 0 0 / 30%);
+    color: white;
+}
+.text-white{
+    margin-right: 150px;
+}
+.logo{
+    border-radius: 3px;
+    margin-left: 120px;
+    margin-right: 20px;
+}
+.wrap{
+    border-bottom: 1px solid;
+}
+.badge{
+    background-color: purple !important;
+    border-radius: 2px;
+    margin-right: 4px !important;
+}
+.flex-fill{
+    font-size: 10px;
+    
+}
+.bi-grid-fill{
+    margin-right: 0px;
+}
+.badge-secondary{
+    margin-right: 0px;
+}
+.color{
+    color: purple;
+    text-decoration: bold;
+}
+.ring{
+    background-color:#d8d8d8 !important;
+}
+
+
+.solid{
+    border-right: 1px solid lightslategrey;
+    margin-right: 5px;
+}
+
+
+
+
